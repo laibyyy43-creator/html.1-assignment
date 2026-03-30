@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>My Digital Card</title>
+</head>
+<body>
+
+    <h1>Laiba Ali</h1>
+    <h3>Future Web Developer 💻</h3>
+
+    <p>
+    Hello! My name is Laiba. I love learning web development and creating websites. 
+    I enjoy coding, exploring new technologies, and improving my skills every day.
+    </p>
+
+
+</body>
+</html>
+
+
